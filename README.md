@@ -1,10 +1,3 @@
-from datetime import date
-
-# Dynamically include today's date for the README footer
-today = date.today().strftime("%B %d, %Y")
-
-readme_content = f"""# 📊 Superstore Business Insights
-
 Welcome to the **Superstore Business Insights** project — a full exploratory data analysis (EDA) and business strategy breakdown for a U.S. retail superstore. This project is built with clarity, insights, and client strategy in mind under the voice of **Cowabunga Cloud Solutions 🌊**.
 
 ---
